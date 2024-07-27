@@ -1,1 +1,1 @@
-# web.rizkyharun96.github.io
+# rizkyharun96.github.io
